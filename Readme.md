@@ -24,7 +24,7 @@
    pip install hcloud
    ```
 
-##Usage
+## Usage
 1- Replace the token value in the script with your Hetzner Cloud API token.
 
 2- Run the script:
@@ -33,16 +33,16 @@ python3 script.py
 ```
 3- Follow the on-screen instructions to interact with the script and perform various actions such as managing servers and IP addresses.
 
-##License
+## License
 This project is licensed under the <a href=''>MIT License.</a>
 
 
 
 
-##Acknowledgements
-- <a hfer='https://www.hetzner.com/cloud'>Hetzner Cloud</a>
+## Acknowledgements
+- <a href='https://www.hetzner.com/cloud'>Hetzner Cloud</a>
 - <a href='https://github.com/hetznercloud/hcloud-python'>hcloud-python</a>
 
 
-####Feel free to contribute to this project by submitting issues or pull requests.
+#### Feel free to contribute to this project by submitting issues or pull requests.
 
